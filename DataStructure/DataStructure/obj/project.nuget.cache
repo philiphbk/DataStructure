@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5H7h92YBpQG3/KwNhrzCI+zgXOG/re4mQB+EDGbFMUIO42iCkMD8xgnywGOHHpcdAguur0B8ioIChA9OmCjnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damif\\source\\repos\\DataStructure\\DataStructure\\DataStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
